@@ -2,7 +2,7 @@
 
 Software Engineer passionate about Machine Learning, Computer Science and Mathematics.
 
-You can reach me at - [LinkedIn](https://www.linkedin.com/in/pradyumna-akolkar)
+You can reach out to me at - [LinkedIn](https://www.linkedin.com/in/pradyumna-akolkar)
 
 ### Languages and Tools : 
 
