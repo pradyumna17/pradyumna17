@@ -4,7 +4,7 @@ Software Engineer passionate about Machine Learning, Computer Science and Mathem
 
 You can reach me at - [LinkedIn](https://www.linkedin.com/in/pradyumna-akolkar)
 
-### Languages and Tools
+### Languages and Tools : 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
